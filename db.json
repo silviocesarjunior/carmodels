@@ -1,0 +1,202 @@
+{
+  "car": [
+    {
+      "id": "1",
+      "name": "Volkswagen Golf 2020",
+      "total_fichatecnica": "5",
+      "motor": 2.0,
+      "cover": "https://portallubes.com.br/wp-content/uploads/2020/04/vw-golf-2020.jpg",
+      "video": "https://www.youtube.com/watch?v=G1fY2laOnQU&ab_channel=MundoSobreRodas",
+      "fichatecnica": [
+        {
+          "id": "1",
+          "name": "motor",
+          "amount": "2.0"
+        },
+        {
+          "id": "2",
+          "name": "potência",
+          "amount": "230CV"
+        },
+        {
+          "id": "3",
+          "name": "Velocidade Máxima",
+          "amount": "238 Km/h"
+        },
+        {
+          "id": "4",
+          "name": "Consumo cidade",
+          "amount": "10,5 Km/l"
+        },
+        {
+          "id": "5",
+          "name": "Consumo estrada",
+          "amount": "25,4 km/l"
+        }
+      ],
+      "instructions": [
+        {
+          "id": "1",
+          "text": "Suspensão tipo McPherson e dianteira com barra estabilizadora, roda tipo independente e molas helicoidal."
+        },
+        {
+          "id": "2",
+          "text": "Quatro freios à disco com dois discos ventilados."
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Volkswagen Jetta 2023 ",
+      "total_fichatecnica": "5",
+      "motor": 1.4,
+      "cover": "https://www.automaistv.com.br/wp-content/uploads/2022/10/Volkswagen-Jetta-GLI-25_edited-990x594.jpg",
+      "video": "https://www.youtube.com/watch?v=Tz7VqCqOKFA&ab_channel=MundoSobreRodas",
+      "fichatecnica": [
+        {
+          "id": "1",
+          "name": "motor",
+          "amount": "1.4"
+        },
+        {
+          "id": "2",
+          "name": "potência",
+          "amount": "150CV"
+        },
+        {
+          "id": "3",
+          "name": "Velocidade Máxima",
+          "amount": "203 Km/h"
+        },
+        {
+          "id": "4",
+          "name": "Consumo cidade",
+          "amount": "10,4 Km/l"
+        },
+        {
+          "id": "5",
+          "name": "Consumo estrada",
+          "amount": "13,8 km/l"
+        }
+      ],
+      "instructions": [
+        {
+          "id": "1",
+          "text": "Suspensão tipo McPherson e dianteira com barra estabilizadora, roda tipo independente e molas helicoidal."
+        },
+        {
+          "id": "2",
+          "text": "Quatro freios à disco com dois discos ventilados."
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Fiat Argo 2023",
+      "total_fichatecnica": "6",
+      "motor": 1.0,
+      "cover": "https://static.kbb.com.br/Uploads/ResearchTools/News/3962/604af3a1-9ad8-44a6-be5a-84a03ce6e279_1365x1024.jpg",
+      "video": "https://www.youtube.com/watch?v=pP7UckSetf8&ab_channel=MundoSobreRodas",
+      "fichatecnica": [
+        {
+          "id": "1",
+          "name": "motor",
+          "amount": "1.0"
+        },
+        {
+          "id": "2",
+          "name": "potência",
+          "amount": "75CV"
+        },
+        {
+          "id": "3",
+          "name": "Velocidade Máxima",
+          "amount": "162 Km/h"
+        },
+        {
+          "id": "4",
+          "name": "Consumo cidade",
+          "amount": "9,6 Km/l"
+        },
+        {
+          "id": "5",
+          "name": "Consumo estrada",
+          "amount": "10,6 km/l"
+        },
+        {
+          "id": "6",
+          "name": "Câmbio",
+          "amount": "manual de 5 marchas"
+        }
+      ],
+      "instructions": [
+        {
+          "id": "1",
+          "text": "Suspensão tipo McPherson e dianteira com barra estabilizadora, roda tipo independente e molas helicoidal."
+        },
+        {
+          "id": "2",
+          "text": "Direção elétrica."
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Chevrolet Onix 1.0 LT 2023",
+      "total_fichatecnica": "6",
+      "motor": 1.0,
+      "cover": "https://storage-cdn.static-gm.com/ah/97164e54-ce63-4fd9-bc7e-22a4c474c71a/d1ba058c-38fd-4f3d-a88a-fb860c0eaa4c/1652b2b5-bb63-498d-866d-c77650a15fc920230420121824.jpeg",
+      "video": "https://www.youtube.com/watch?v=G1KCg1W-RxE&ab_channel=MundoSobreRodas",
+      "fichatecnica": [
+        {
+          "id": "1",
+          "name": "motor",
+          "amount": "1.0"
+        },
+        {
+          "id": "2",
+          "name": "potência",
+          "amount": "80CV"
+        },
+        {
+          "id": "3",
+          "name": "Velocidade Máxima",
+          "amount": "170 Km/h"
+        },
+        {
+          "id": "4",
+          "name": "Consumo cidade",
+          "amount": "8,8 Km/l"
+        },
+        {
+          "id": "5",
+          "name": "Consumo estrada",
+          "amount": "10,5 km/l"
+        },
+        {
+          "id": "6",
+          "name": "Câmbio",
+          "amount": "manual de 6 marchas"
+        }
+      ],
+      "instructions": [
+        {
+          "id": "1",
+          "text": "Suspensão tipo McPherson e dianteira com barra estabilizadora, roda tipo independente e molas helicoidal."
+        },
+        {
+          "id": "2",
+          "text": "Suspensão tipo eixo de torção, roda tipo semi-independente e molas helicoidal."
+        },
+        {
+          "id": "3",
+          "text": "Dois freios à disco com dois discos ventilados."
+        },
+        {
+          "id": "4",
+          "text": "Computador de bordo."
+        }
+      ]
+    }
+  ]
+}
